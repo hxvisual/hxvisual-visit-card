@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="header">
-        <div className="logo">TVARI1</div>
+        <div className="logo">TVARI12</div>
         <nav className="nav">
           <a href="#about">О нас</a>
           <a href="#services">Услуги</a>
